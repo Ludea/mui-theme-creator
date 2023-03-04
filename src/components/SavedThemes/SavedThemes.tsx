@@ -3,7 +3,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 import { RootState } from "src/state/types";
 import AddThemeButton from "./AddThemeButton";
-import DefaultThemesComponent from "./DefaultThemesComponent";
+import DefaultThemes from "./DefaultThemesComponent";
 import SavedThemeItem from "./SavedThemeItem/SavedThemeItem";
 import SavedThemeList from "./SavedThemeList";
 
