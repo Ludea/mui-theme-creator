@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
-    "@types/codemirror": "^0.0.97",
+    "@types/codemirror": "^5.60.7",
     "@types/dot-prop-immutable": "^1.5.1",
     "@types/jest": "^26.0.9",
     "@types/prettier": "^2.0.2",
