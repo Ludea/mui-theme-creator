@@ -48,7 +48,7 @@
     "@babel/core": "^7.17.9",
     "@types/codemirror": "^5.60.7",
     "@types/dot-prop-immutable": "^1.5.1",
-    "@types/jest": "^26.0.9",
+    "@types/jest": "^29.4.0",
     "@types/prettier": "^2.0.2",
     "@types/react-color": "^3.0.4",
     "@types/react-redux": "^7.1.9",
